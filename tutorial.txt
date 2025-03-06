@@ -5,3 +5,8 @@ git status
 git diff
 
 git diff --staged
+
+git commit --amend
+
+git commit --amend
+
